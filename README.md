@@ -1,8 +1,9 @@
 ### Hi there 👋  
-My name is Şamil Hüseynov
-I'm mostly a MERN stack developer and also an instructor.
-I trust myself
-I'm open to new offers 💪
+My name is Shamil Huseynov
+I am mainly a Freelance full stack developer
+I am also learning.
+I am confident
+I am open to new suggestions 💪
 
 [![Linkedin: sarkhanrahimli](https://img.shields.io/badge/-sarkhanrahimli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sarkhan-rahimli-306b941a4/)](https://www.linkedin.com/in/sarkhan-rahimli-306b941a4/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/Shdevs?label=follow&style=social)](https://github.com/Shdevs)
