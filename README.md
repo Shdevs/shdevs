@@ -5,7 +5,7 @@ I am also learning.
 I am confident
 I am open to new suggestions 💪
 
-[![Linkedin: samilhuseynov](https://img.shields.io/badge/-sarkhanrahimli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sarkhan-rahimli-306b941a4/)](https://www.linkedin.com/in/sarkhan-rahimli-306b941a4/)
+[![Linkedin: samilhuseynov](https://img.shields.io/badge/-samilhuseynov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sarkhan-rahimli-306b941a4/)](https://www.linkedin.com/in/sarkhan-rahimli-306b941a4/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/Shdevs?label=follow&style=social)](https://github.com/Shdevs)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shdevs&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
